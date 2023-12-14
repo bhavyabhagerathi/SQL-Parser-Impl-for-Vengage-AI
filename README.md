@@ -37,4 +37,6 @@ operaNons and print SQL like output on console.
 
 Click on Cell in navigation bar and select Run All option. You can see the implementation and results for all the given commands.
 
+Separate SQL-like parsing functions have been written for each of the given commands to avoid confusion and increase clarity.
+
   
