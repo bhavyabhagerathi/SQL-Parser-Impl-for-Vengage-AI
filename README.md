@@ -39,5 +39,9 @@ Click on Cell in navigation bar and select Run All option. You can see the imple
 
 Separate SQL-like parsing functions have been written for each of the given commands to avoid confusion and increase clarity.
 
+### Information about csv file
+
+The csv file which is present here is just a sample to show that the format of the data is rightly generated according to the initial requirements of the task. In the implementation, synthetic generation of data has been done , due to which the data changes each time. Not to be confused with the sample data in this csv file. 
+
 
   
