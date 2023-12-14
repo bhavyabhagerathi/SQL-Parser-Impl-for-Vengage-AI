@@ -1,4 +1,4 @@
-# SQL-Parser-Impl-for-Vengage-AI
+# SQL-Parser-Implementation-for-Vengage-AI
 
 ## Goal
 Implement backend code for the following problem statements
