@@ -33,4 +33,8 @@ operaNons and print SQL like output on console.
 - faker
 - prettytable (pip install PrettyTable)
 
+### How to run
+
+Click on Cell in navigation bar and select Run All option. You can see the implementation and results for all the given commands.
+
   
