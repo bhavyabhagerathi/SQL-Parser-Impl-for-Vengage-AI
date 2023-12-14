@@ -23,7 +23,7 @@ operaNons and print SQL like output on console.
 
 ### Languages and Tools required 
 
-- Python
+- Python 3.x
 - Jupyter Notebook
 
 ### Libraries to import and install
@@ -31,6 +31,6 @@ operaNons and print SQL like output on console.
 - pandas
 - csv
 - faker
-- prettytable
+- prettytable (pip install PrettyTable)
 
   
